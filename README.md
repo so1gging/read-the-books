@@ -23,7 +23,7 @@
 <body>
 <tr>
 <td>
-<img src="assets/러닝_타입스크립트_표지.png"/>
+<img src="assets/러닝_타입스크립트_표지.png" width="160"/>
 </td>
 <td>
 <img src="assets/함께_자라기_표지.png" width="160"/>
