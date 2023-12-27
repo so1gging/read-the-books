@@ -2,7 +2,7 @@
 
 ![books.png](assets/books.png)
 
-![Version](https://img.shields.io/badge/version-2023.12.26-blue.svg)
+![Version](https://img.shields.io/badge/version-2023.12.27-blue.svg)
 
 > 기술관련 서적을 읽고 정리하는 레포입니다.
 
