@@ -40,6 +40,24 @@
 <td align="center"><a href="함께_자라기/README.md">바로가기</a></td>
 <td align="center"><a href="쏙쏙_들어오는_함수형_코딩/README.md">바로가기</a></td>
 </tr>
+<table>
+<colgroup>
+<col width="160"/>
+</colgroup>
+<head>
+<th>
+모던 리액트 Deep Dive
+</th>
+</head>
+<body>
+<tr>
+<td>
+<img src="assets/모던_리액트_Deep_Dive.png" width="160"/>
+</td>
+</tr>
+<tr>
+<td align="center"><a href="모던_리액트_Deep_Dive/README.md">바로가기</a></td>
+</tr>
 </body>
 </table>
 
