@@ -4,3 +4,5 @@
 
 ### PART 01 프론트엔드 개발 돌아보기
 [chapter01](./Part1/01.md)
+[chapter02](./Part1/02.md)
+
