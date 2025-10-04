@@ -2,7 +2,7 @@
 
 ![books.png](assets/books.png)
 
-![Version](https://img.shields.io/badge/version-2023.12.27-blue.svg)
+![Version](https://img.shields.io/badge/version-2025.10.04-blue.svg)
 
 > 기술관련 서적을 읽고 정리하는 레포입니다.
 
@@ -43,10 +43,14 @@
 <table>
 <colgroup>
 <col width="160"/>
+<col width="160"/>
 </colgroup>
 <head>
 <th>
 모던 리액트 Deep Dive
+</th>
+<th>
+다시 깊게 익히는 인사이드 리액트
 </th>
 </head>
 <body>
@@ -54,10 +58,13 @@
 <td>
 <img src="assets/모던_리액트_Deep_Dive.png" width="160"/>
 </td>
+<td>
+<img src="assets/다시깊게익히는인사이드리액트.jpg" width="160"/>
+</td>
 </tr>
 <tr>
 <td align="center"><a href="모던_리액트_Deep_Dive/README.md">바로가기</a></td>
+<td align="center"><a href="다시_깊게_익히는_인사이드_리액트/README.md">바로가기</a></td>
 </tr>
 </body>
 </table>
-
