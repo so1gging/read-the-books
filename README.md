@@ -44,6 +44,7 @@
 <colgroup>
 <col width="160"/>
 <col width="160"/>
+<col width="160"/>
 </colgroup>
 <head>
 <th>
@@ -51,6 +52,8 @@
 </th>
 <th>
 다시 깊게 익히는 인사이드 리액트
+</th>
+<th>
 </th>
 </head>
 <body>
@@ -61,10 +64,13 @@
 <td>
 <img src="assets/다시깊게익히는인사이드리액트.jpg" width="160"/>
 </td>
+<td>
+</td>
 </tr>
 <tr>
 <td align="center"><a href="모던_리액트_Deep_Dive/README.md">바로가기</a></td>
 <td align="center"><a href="다시_깊게_익히는_인사이드_리액트/README.md">바로가기</a></td>
+<td></td>
 </tr>
 </body>
 </table>
