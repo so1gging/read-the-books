@@ -6,4 +6,5 @@
 [chapter01](./Part1/01.md)
 [chapter02](./Part1/02.md)
 [chapter03](./Part1/03.md)
+[chapter04](./Part1/04.md)
 
